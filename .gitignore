@@ -1,7 +1,7 @@
 .vs
 **/.env
 data
-*.txt
+**/.txt
 
 # Ignore build outputs
 bin/
