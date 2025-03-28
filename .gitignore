@@ -1,0 +1,38 @@
+.vs
+**/.env
+data
+*.txt
+
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Rider files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Dotnet user secrets
+*.usersecrets
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Environment files (if they contain sensitive data)
+.env
+
+# Other generated files
+publish/
